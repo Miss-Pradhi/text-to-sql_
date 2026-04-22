@@ -5,3 +5,5 @@ queries into executable SQL statements. It incorporates a self-healing
 pipeline for automatic error correction, Retrieval-Augmented Generation (RAG) 
 using FAISS for context-aware query generation, and an interactive Streamlit 
 interface with real-time data visualization.
+
+Project Link - https://text-to-sql-appp.streamlit.app/
